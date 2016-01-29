@@ -1,0 +1,28 @@
+name: finkelstein
+favicon: null
+layout_spectrum: 0.2502697000745684
+typography_spectrum: 0.19723491533659399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8680877152364701
+  lightness: 0.34395412588492036
+  saturation: 0.21050772862508893
+  rhythmicContrast: 0.47096192673780024
+purpose: []
