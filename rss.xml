@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[finkelstein]]></title>
         <description><![CDATA[finkelstein]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/finkelstein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 16:50:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 16:51:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/finkelstein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ae13501-0616-48de-83b3-d00a7112418f.jpg">]]></description>
+            <link>https://thegrid.ai/finkelstein/75abb1fb-82ff-434f-9484-7de13f2ee78e/index.html</link>
+            <guid isPermaLink="false">75abb1fb-82ff-434f-9484-7de13f2ee78e</guid>
+            <pubDate>Fri, 29 Jan 2016 16:51:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c97793-124c-4f0f-8c4f-db0abac6d9eb.jpg">]]></description>
-            <link>undefinedebe24b4e-cd0e-4df9-b081-455b38507ebe/index.html</link>
+            <link>https://thegrid.ai/finkelstein/ebe24b4e-cd0e-4df9-b081-455b38507ebe/index.html</link>
             <guid isPermaLink="false">ebe24b4e-cd0e-4df9-b081-455b38507ebe</guid>
             <pubDate>Fri, 29 Jan 2016 16:50:18 GMT</pubDate>
         </item>
